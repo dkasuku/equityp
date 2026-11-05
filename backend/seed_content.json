@@ -1,0 +1,591 @@
+{
+  "properties": [
+    {
+      "slug": "mamburi-maisonettes-malindi",
+      "name": "Mamburi Ensuite Maisonettes",
+      "tagline": "Your dream home is closer than you think",
+      "type": "Maisonettes",
+      "status": "Selling",
+      "location": "Mamburi, Malindi",
+      "price_from": 5700000,
+      "beds": "3 Bedrooms",
+      "baths": "All Ensuite",
+      "size": "10 mins from Malindi Town, along Lamu Hwy",
+      "plot": "Book with KSh 2M · flexible financing",
+      "featured": true,
+      "short_desc": "Elegant 3-bedroom all-ensuite maisonettes along the Lamu Highway, just 10 minutes from Malindi Town. KSh 5.7M — book with KSh 2M.",
+      "description": [
+        "Your dream home is closer than you think. Discover elegant 3-bedroom, all-ensuite maisonettes in Mamburi, Malindi — strategically located along the Lamu Highway, just 10 minutes from Malindi Town.",
+        "Enjoy spacious modern living with premium finishes, customizable interiors and a secure environment. Each maisonette is priced at KSh 5.7M, and you can secure yours with a booking of KSh 2M, with flexible financing for the balance."
+      ],
+      "highlights": [
+        "3-bedroom, all-ensuite maisonettes",
+        "Price: KSh 5.7M",
+        "Booking: KSh 2M",
+        "10 mins from Malindi Town on Lamu Highway"
+      ],
+      "amenities": [
+        "All bedrooms ensuite",
+        "Spacious modern living",
+        "Premium finishes",
+        "Customizable interiors",
+        "Secure environment",
+        "Along Lamu Highway",
+        "Flexible financing",
+        "Free site visits"
+      ],
+      "hero_image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=80",
+      "card_image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=900&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ]
+    },
+    {
+      "slug": "echoes-of-afrika",
+      "name": "Echoes of Afrika",
+      "tagline": "A cultural & eco-tourism hub — be part of the legacy",
+      "type": "Investment Projects",
+      "status": "Open to Investors",
+      "location": "Kenyan Coast",
+      "price_from": null,
+      "beds": "Heritage & Tourism Hub",
+      "baths": "Community-led",
+      "size": "Eco-tourism · Arts · Investment",
+      "plot": "Contributor & investor packages",
+      "featured": true,
+      "short_desc": "More than a destination — a movement to preserve heritage, empower local communities and build a legacy in African tourism.",
+      "description": [
+        "Are you passionate about culture, nature and sustainable tourism? Echoes of Afrika is more than just a destination — it's a movement to preserve heritage, empower local communities and build a legacy in African tourism.",
+        "We're inviting forward-thinkers, investors, creatives and visionaries to be part of our growing community as we develop a unique cultural and tourism hub. Get in touch to learn how to get involved."
+      ],
+      "highlights": [
+        "Be part of a visionary African heritage project",
+        "Connect with like-minded contributors",
+        "Explore opportunities in eco-tourism, arts and investment",
+        "Stay informed on progress, events and how to get involved"
+      ],
+      "amenities": [
+        "Cultural heritage preservation",
+        "Sustainable eco-tourism",
+        "Arts & creative spaces",
+        "Local community empowerment",
+        "Investment opportunities",
+        "Events & progress updates",
+        "Contributor network",
+        "Long-term legacy project"
+      ],
+      "hero_image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1600&q=80",
+      "card_image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=900&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1535941339077-2dd1c7963098?auto=format&fit=crop&w=1200&q=80"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "slug": "why-mamburi-malindi-is-the-place-to-own-a-home",
+      "title": "Why Mamburi, Malindi Is the Place to Own Your Next Home",
+      "excerpt": "Ten minutes from Malindi Town on the Lamu Highway, Mamburi blends coastal calm with easy access — and our 3-bedroom ensuite maisonettes start at KSh 5.7M.",
+      "category": "Malindi",
+      "author": "Equity Premier",
+      "read_time": "5 min read",
+      "cover_image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1400&q=80",
+      "featured": true,
+      "published": true,
+      "tags": [
+        "Malindi",
+        "Maisonettes",
+        "Coast"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Malindi has long been one of Kenya's most loved coastal towns. Mamburi, just 10 minutes away along the Lamu Highway, gives you the best of both worlds: a quiet, secure neighbourhood with town, schools, hospitals and the beach all within easy reach."
+        },
+        {
+          "type": "heading",
+          "text": "Strategically located on the Lamu Highway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Good roads make daily life easier and help homes hold their value. Being right on the Lamu Highway means smooth commutes into Malindi Town and a direct route up the coast."
+        },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=80",
+          "caption": "Modern coastal living, minutes from town."
+        },
+        {
+          "type": "heading",
+          "text": "Spacious, all-ensuite maisonettes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each maisonette has three bedrooms, every one ensuite, with premium finishes and interiors you can customise. Priced at KSh 5.7M, you can secure yours with a KSh 2M booking and flexible financing for the balance."
+        },
+        {
+          "type": "quote",
+          "text": "Your dream home is closer than you think."
+        }
+      ],
+      "published_at": "2026-10-28T09:00:00Z"
+    },
+    {
+      "slug": "first-time-home-buyer-guide-kenya",
+      "title": "Buying Your First Home in Kenya: A Simple Step-by-Step Guide",
+      "excerpt": "From viewing to booking to handover — what to check, what to ask and how flexible financing works when you buy an off-plan or ready home.",
+      "category": "Buying Guide",
+      "author": "Equity Premier",
+      "read_time": "6 min read",
+      "cover_image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=80",
+      "featured": false,
+      "published": true,
+      "tags": [
+        "Buying Guide",
+        "Financing"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Buying your first home is one of the biggest decisions you will make. Here is how to approach it with confidence."
+        },
+        {
+          "type": "heading",
+          "text": "1. Visit the site"
+        },
+        {
+          "type": "paragraph",
+          "text": "Always view the home or show unit in person. Look at the finishes, the neighbourhood, access roads and security."
+        },
+        {
+          "type": "heading",
+          "text": "2. Understand the price and booking"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ask for the full price, the booking amount and the payment schedule in writing. For our Mamburi maisonettes, that is KSh 5.7M with a KSh 2M booking."
+        },
+        {
+          "type": "heading",
+          "text": "3. Review the documents"
+        },
+        {
+          "type": "paragraph",
+          "text": "Check the sale agreement and ownership documents with a lawyer before you commit."
+        },
+        {
+          "type": "heading",
+          "text": "4. Personalise and plan the handover"
+        },
+        {
+          "type": "paragraph",
+          "text": "If interiors are customisable, agree on your choices early so your home is ready the way you want it."
+        }
+      ],
+      "published_at": "2026-10-20T09:00:00Z"
+    },
+    {
+      "slug": "echoes-of-afrika-heritage-tourism-hub",
+      "title": "Echoes of Afrika: Building a Legacy in African Heritage Tourism",
+      "excerpt": "More than a destination — a movement to preserve heritage, empower local communities and grow sustainable eco-tourism. Here is how you can be part of it.",
+      "category": "Investment",
+      "author": "Equity Premier",
+      "read_time": "4 min read",
+      "cover_image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1400&q=80",
+      "featured": false,
+      "published": true,
+      "tags": [
+        "Echoes of Afrika",
+        "Investment",
+        "Eco-tourism"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Are you passionate about culture, nature and sustainable tourism? Echoes of Afrika is a cultural and tourism hub being developed to preserve heritage, empower local communities and build a lasting legacy in African tourism."
+        },
+        {
+          "type": "heading",
+          "text": "Who we are inviting"
+        },
+        {
+          "type": "paragraph",
+          "text": "Forward-thinkers, investors, creatives and visionaries who want to be part of a growing community shaping something unique."
+        },
+        {
+          "type": "heading",
+          "text": "Why join"
+        },
+        {
+          "type": "paragraph",
+          "text": "Be part of a visionary African heritage project, connect with like-minded contributors, explore opportunities in eco-tourism, arts and investment, and stay informed on progress and events."
+        },
+        {
+          "type": "quote",
+          "text": "Preserve heritage. Empower communities. Build a legacy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Call 0722 602373 or visit us at SpurMall Ruiru Kimbo to learn how to get involved."
+        }
+      ],
+      "published_at": "2026-10-12T09:00:00Z"
+    }
+  ],
+  "sections": [
+    [
+      "hero",
+      "Homepage — Hero",
+      "home",
+      {
+        "badge": "3-Bed Ensuite Maisonettes in Malindi · KSh 5.7M",
+        "headingLead": "Your Dream Home Is",
+        "headingAccent": "Closer",
+        "headingTail": "Than You Think",
+        "body": "Equity Premier Housing Solutions builds and sells elegant, modern homes — starting with all-ensuite maisonettes in Mamburi, Malindi, just 10 minutes from town. Premium finishes, a secure environment and flexible financing.",
+        "primaryLabel": "View Homes",
+        "primaryHref": "/properties",
+        "secondaryLabel": "Book a Viewing",
+        "secondaryHref": "/contact",
+        "backgroundImages": [
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1920&q=80",
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80",
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1920&q=80",
+          "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1920&q=80"
+        ],
+        "intervalMs": 6000
+      }
+    ],
+    [
+      "stats",
+      "Homepage — Who We Are",
+      "home",
+      {
+        "eyebrow": "WHO WE ARE",
+        "heading": "Making Home Ownership Simple, Secure & Within Reach",
+        "body": "Equity Premier Housing Solutions develops quality, modern homes for families and investors in Kenya and the diaspora — beginning with elegant maisonettes in Mamburi, Malindi and growing into landmark projects like Echoes of Afrika.",
+        "ctaLabel": "View Homes",
+        "ctaHref": "/properties",
+        "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "imageAlt": "Modern maisonette interior by Equity Premier",
+        "stats": [
+          {
+            "value": 3,
+            "suffix": " BR",
+            "label": "ALL-ENSUITE MAISONETTES"
+          },
+          {
+            "value": 10,
+            "suffix": " MIN",
+            "label": "FROM MALINDI TOWN"
+          },
+          {
+            "value": 2,
+            "suffix": "M",
+            "label": "KSH BOOKING TO SECURE YOURS"
+          }
+        ]
+      }
+    ],
+    [
+      "what_we_develop",
+      "Homepage — What We Offer",
+      "home",
+      {
+        "eyebrow": "WHAT WE OFFER",
+        "heading": "Homes & Projects Built Around You",
+        "body": "From family maisonettes by the coast to cultural and eco-tourism investments — we create places worth coming home to.",
+        "items": [
+          {
+            "title": "Ensuite Maisonettes",
+            "desc": "Elegant 3-bedroom, all-ensuite maisonettes in Mamburi, Malindi."
+          },
+          {
+            "title": "Gated Communities",
+            "desc": "Secure, well-planned neighbourhoods designed for families."
+          },
+          {
+            "title": "Bungalows",
+            "desc": "Single-storey family homes with modern layouts and finishes."
+          },
+          {
+            "title": "Holiday & Coastal Homes",
+            "desc": "Homes near the beach for living, retiring or short-stay rentals."
+          },
+          {
+            "title": "Echoes of Afrika",
+            "desc": "A cultural and eco-tourism hub open to investors and creatives."
+          },
+          {
+            "title": "Commercial Developments",
+            "desc": "Mixed-use spaces in growing towns along the coast."
+          },
+          {
+            "title": "Apartments",
+            "desc": "Upcoming modern apartment projects for urban living."
+          },
+          {
+            "title": "Custom Interiors",
+            "desc": "Personalise finishes and layouts before handover."
+          },
+          {
+            "title": "Home Financing Support",
+            "desc": "Flexible payment plans and guidance on financing options."
+          },
+          {
+            "title": "Free Viewings",
+            "desc": "Visit our sites by appointment — book from our SpurMall office."
+          }
+        ]
+      }
+    ],
+    [
+      "projects",
+      "Homepage — Featured Listings",
+      "home",
+      {
+        "eyebrow": "FEATURED LISTINGS",
+        "heading": "Homes & Projects Available Now",
+        "body": "Modern homes and visionary investments — hand-picked, well-located and backed by flexible terms.",
+        "ctaLabel": "View all listings",
+        "ctaHref": "/properties"
+      }
+    ],
+    [
+      "gallery",
+      "Homepage — Gallery Strip",
+      "home",
+      {
+        "images": [
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1200&q=80"
+        ]
+      }
+    ],
+    [
+      "why_choose_us",
+      "Homepage — Why Equity Premier",
+      "home",
+      {
+        "eyebrow": "WHY EQUITY PREMIER",
+        "heading": "Own a Home With Confidence",
+        "body": "We build homes we would be proud to live in — and make the buying journey clear, secure and affordable.",
+        "items": [
+          {
+            "title": "Premium Finishes",
+            "description": "Quality materials and modern detailing in every room, built to last for generations.",
+            "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80"
+          },
+          {
+            "title": "All-Ensuite Living",
+            "description": "Every bedroom has its own bathroom — privacy and comfort for the whole family.",
+            "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=80"
+          },
+          {
+            "title": "Customizable Interiors",
+            "description": "Make it yours. Choose finishes and layouts that suit your lifestyle before handover.",
+            "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80"
+          },
+          {
+            "title": "Secure Environment",
+            "description": "Homes set in a safe, well-planned neighbourhood along the Lamu Highway near Malindi Town.",
+            "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=900&q=80"
+          },
+          {
+            "title": "Flexible Financing",
+            "description": "Book with KSh 2M and clear the balance on a plan that works for you. Talk to us about options.",
+            "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80"
+          }
+        ]
+      }
+    ],
+    [
+      "vision_mission",
+      "Homepage — Vision & Mission",
+      "home",
+      {
+        "eyebrow": "OUR PURPOSE",
+        "visionTitle": "Our Vision",
+        "visionBody": "To be Kenya's most trusted housing developer — giving every family and investor a premier home and a lasting legacy.",
+        "missionTitle": "Our Mission",
+        "missionBody": "To build quality, secure and beautifully finished homes, offered with honest pricing and flexible financing, while investing in projects that celebrate African heritage.",
+        "africaTitle": "WHERE WE BUILD",
+        "africaBody": "Our current development is in Mamburi, Malindi — along the Lamu Highway, just 10 minutes from Malindi Town. Alongside it we are growing Echoes of Afrika, a cultural and eco-tourism hub on the Kenyan Coast."
+      }
+    ],
+    [
+      "core_values",
+      "Homepage — Core Values",
+      "home",
+      {
+        "eyebrow": "OUR CORE VALUES",
+        "heading": "The Principles That Guide Us",
+        "body": "Every home we build is backed by a clear set of values that shape how we work with buyers, investors and communities.",
+        "items": [
+          {
+            "title": "Integrity",
+            "desc": "We do what is right, with honesty and transparency at every step."
+          },
+          {
+            "title": "Quality Craftsmanship",
+            "desc": "Premium materials and finishes in every home we build."
+          },
+          {
+            "title": "Affordability",
+            "desc": "We structure prices and payment plans around real budgets."
+          },
+          {
+            "title": "Transparency",
+            "desc": "Clear prices, written agreements and no hidden charges."
+          },
+          {
+            "title": "Customer Commitment",
+            "desc": "We put homeowners and investors at the centre of all we do."
+          },
+          {
+            "title": "Accountability",
+            "desc": "We take ownership and deliver on every promise we make."
+          },
+          {
+            "title": "Partnership",
+            "desc": "We walk with you from first viewing to handing over your keys."
+          }
+        ]
+      }
+    ],
+    [
+      "cta",
+      "Homepage — Call To Action",
+      "home",
+      {
+        "heading": "Secure Your Malindi Maisonette Today",
+        "body": "3-bedroom, all-ensuite maisonettes at KSh 5.7M — book with KSh 2M. Call 0722 602373 to arrange a viewing.",
+        "buttonLabel": "View Homes",
+        "buttonHref": "/properties",
+        "images": [
+          "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80",
+          "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=900&q=80",
+          "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80"
+        ]
+      }
+    ],
+    [
+      "contact",
+      "Contact Form Block",
+      "home",
+      {
+        "eyebrow": "CONTACT",
+        "heading": "Book a viewing today",
+        "buttonLabel": "GET STARTED",
+        "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80",
+        "hoursTitle": "KEY DETAILS",
+        "hours": [
+          "📞 0722 602373",
+          "📍 SpurMall Ruiru Kimbo, 3rd Floor, Suite T03",
+          "Monday-Friday: 8 AM - 6 PM",
+          "Saturday: 9 AM - 4 PM · Viewings by appointment"
+        ]
+      }
+    ],
+    [
+      "about_hero",
+      "About — Hero",
+      "about",
+      {
+        "eyebrow": "WHO WE ARE",
+        "headingLead": "Building Homes,",
+        "headingAccent": "Building Legacies",
+        "body": "Your premier housing solutions partner — creating modern, secure and beautifully finished homes across Kenya.",
+        "backgroundImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    [
+      "about_story",
+      "About — Our Story",
+      "about",
+      {
+        "eyebrow": "OUR STORY",
+        "heading": "Homes You Will Love, Terms You Can Afford",
+        "paragraphs": [
+          "Equity Premier Housing Solutions was founded on a simple idea: a quality home should be within reach for every hardworking family. We design and build modern homes with premium finishes in secure, well-connected locations.",
+          "Our current development is a collection of elegant 3-bedroom, all-ensuite maisonettes in Mamburi, Malindi — along the Lamu Highway, just 10 minutes from Malindi Town — priced at KSh 5.7M with a KSh 2M booking.",
+          "Beyond homes, we are building Echoes of Afrika, a cultural and eco-tourism hub that preserves heritage and empowers local communities. Visit us at SpurMall Ruiru Kimbo to start your journey."
+        ],
+        "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "ctaLabel": "View homes",
+        "ctaHref": "/properties",
+        "stats": [
+          {
+            "value": "KSh 5.7M",
+            "label": "Maisonettes from"
+          },
+          {
+            "value": "KSh 2M",
+            "label": "Booking to secure yours"
+          },
+          {
+            "value": "Malindi",
+            "label": "Current development"
+          }
+        ]
+      }
+    ],
+    [
+      "properties_hero",
+      "Land for Sale — Hero",
+      "properties",
+      {
+        "eyebrow": "HOMES & PROJECTS",
+        "headingLead": "Find Your",
+        "headingAccent": "Premier",
+        "headingTail": "Home",
+        "body": "Elegant maisonettes and visionary investments — premium finishes, secure locations and flexible financing.",
+        "backgroundImage": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    [
+      "contact_hero",
+      "Contact — Hero & Details",
+      "contact",
+      {
+        "eyebrow": "CONTACT",
+        "heading": "Let's Talk",
+        "body": "Talk to our team about a home, book a viewing or ask about financing and investment opportunities.",
+        "backgroundImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=80",
+        "phone": "0722 602373",
+        "email": "info@equitypremierhousing.com",
+        "address": "SpurMall Ruiru Kimbo, 3rd Floor, Suite T03",
+        "hours": "Mon–Fri 10–6 · Sat 10–4"
+      }
+    ],
+    [
+      "blog_hero",
+      "Blog — Hero",
+      "blog",
+      {
+        "eyebrow": "INSIGHTS",
+        "headingLead": "Buy Smart,",
+        "headingAccent": "Live Well",
+        "body": "Practical guides to buying a home in Kenya — with a close eye on Malindi and the Coast.",
+        "backgroundImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=80"
+      }
+    ],
+    [
+      "footer",
+      "Global — Footer",
+      "global",
+      {
+        "blurb": "Your premier housing solutions — elegant, modern homes with premium finishes, secure environments and flexible financing in Malindi and beyond.",
+        "tagline": "Your Premier Housing Solutions."
+      }
+    ]
+  ]
+}
