@@ -102,7 +102,7 @@ export default function PropertiesAdminPage() {
 
     return (
         <div className="space-y-6">
-            <div className="flex items-center justify-between">
+            <div className="flex items-center justify-between flex-wrap gap-3">
                 <div>
                     <h1 className="text-2xl font-semibold text-navy">Properties</h1>
                     <p className="text-muted-foreground text-sm mt-1">{items.length} development{items.length === 1 ? "" : "s"}</p>
@@ -116,10 +116,10 @@ export default function PropertiesAdminPage() {
                         <TableHeader>
                             <TableRow>
                                 <TableHead>Property</TableHead>
-                                <TableHead>Type</TableHead>
-                                <TableHead>Status</TableHead>
-                                <TableHead>From</TableHead>
-                                <TableHead>Visibility</TableHead>
+                                <TableHead className="hidden lg:table-cell">Type</TableHead>
+                                <TableHead className="hidden md:table-cell">Status</TableHead>
+                                <TableHead className="hidden sm:table-cell">From</TableHead>
+                                <TableHead className="hidden lg:table-cell">Visibility</TableHead>
                                 <TableHead className="text-right">Actions</TableHead>
                             </TableRow>
                         </TableHeader>
@@ -143,10 +143,10 @@ export default function PropertiesAdminPage() {
                                             </div>
                                         </div>
                                     </TableCell>
-                                    <TableCell className="text-muted-foreground">{p.type}</TableCell>
-                                    <TableCell><Badge variant="secondary">{p.status}</Badge></TableCell>
-                                    <TableCell className="text-navy">{kes(p.priceFrom)}</TableCell>
-                                    <TableCell>
+                                    <TableCell className="hidden lg:table-cell text-muted-foreground">{p.type}</TableCell>
+                                    <TableCell className="hidden md:table-cell"><Badge variant="secondary">{p.status}</Badge></TableCell>
+                                    <TableCell className="hidden sm:table-cell text-navy">{kes(p.priceFrom)}</TableCell>
+                                    <TableCell className="hidden lg:table-cell">
                                         <Badge variant={p.published ? "success" : "outline"}>
                                             {p.published ? "Published" : "Draft"}
                                         </Badge>
@@ -224,7 +224,7 @@ export default function PropertiesAdminPage() {
                             </div>
                         </div>
 
-                        <div className="grid sm:grid-cols-4 gap-4">
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                             <div className="space-y-2"><Label>Bedrooms</Label><Input value={form.beds || ""} onChange={(e) => set("beds", e.target.value)} placeholder="3 Bedrooms" /></div>
                             <div className="space-y-2"><Label>Bathrooms</Label><Input value={form.baths || ""} onChange={(e) => set("baths", e.target.value)} placeholder="All Ensuite" /></div>
                             <div className="space-y-2"><Label>Location / Access</Label><Input value={form.size || ""} onChange={(e) => set("size", e.target.value)} placeholder="10 mins from Malindi Town" /></div>
@@ -259,7 +259,7 @@ export default function PropertiesAdminPage() {
 
                         <GalleryField label="Gallery" value={form.gallery || []} onChange={(v) => set("gallery", v)} />
 
-                        <div className="flex items-center gap-8 pt-2">
+                        <div className="flex flex-wrap items-center gap-x-8 gap-y-3 pt-2">
                             <div className="flex items-center gap-2.5">
                                 <Switch checked={!!form.featured} onCheckedChange={(v) => set("featured", v)} />
                                 <Label>Featured on homepage</Label>

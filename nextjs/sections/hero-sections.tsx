@@ -57,7 +57,8 @@ export function HeroSection({
     heightClass?: string;
     className?: string;
 }) {
-    const c = { ...heroDefaults, ...content };
+    // Inner-page banners (compact) only show what they pass in — no homepage buttons or slideshow.
+    const c = variant === "full" ? { ...heroDefaults, ...content } : ({ body: "", ...content } as HeroContent);
 
     // Tolerate a legacy single `backgroundImage` value from older CMS content.
     const legacy = (content as { backgroundImage?: string } | undefined)?.backgroundImage;

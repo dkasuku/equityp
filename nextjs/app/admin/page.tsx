@@ -90,8 +90,8 @@ export default function DashboardPage() {
                             <TableHeader>
                                 <TableRow>
                                     <TableHead>Name</TableHead>
-                                    <TableHead>Email</TableHead>
-                                    <TableHead>Interest</TableHead>
+                                    <TableHead className="hidden md:table-cell">Email</TableHead>
+                                    <TableHead className="hidden lg:table-cell">Interest</TableHead>
                                     <TableHead>Status</TableHead>
                                 </TableRow>
                             </TableHeader>
@@ -99,8 +99,8 @@ export default function DashboardPage() {
                                 {stats.recentEnquiries.map((e) => (
                                     <TableRow key={e.id}>
                                         <TableCell className="font-medium text-navy">{e.name}</TableCell>
-                                        <TableCell className="text-muted-foreground">{e.email}</TableCell>
-                                        <TableCell className="text-muted-foreground">{e.propertyName || e.subject || "—"}</TableCell>
+                                        <TableCell className="hidden md:table-cell text-muted-foreground">{e.email}</TableCell>
+                                        <TableCell className="hidden lg:table-cell text-muted-foreground">{e.propertyName || e.subject || "—"}</TableCell>
                                         <TableCell><Badge variant={statusVariant[e.status] ?? "secondary"}>{e.status}</Badge></TableCell>
                                     </TableRow>
                                 ))}

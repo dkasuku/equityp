@@ -85,9 +85,9 @@ export default function EnquiriesPage() {
                         <TableHeader>
                             <TableRow>
                                 <TableHead>From</TableHead>
-                                <TableHead>Interest</TableHead>
-                                <TableHead>Received</TableHead>
-                                <TableHead>Status</TableHead>
+                                <TableHead className="hidden md:table-cell">Interest</TableHead>
+                                <TableHead className="hidden lg:table-cell">Received</TableHead>
+                                <TableHead className="hidden sm:table-cell">Status</TableHead>
                                 <TableHead className="text-right">Actions</TableHead>
                             </TableRow>
                         </TableHeader>
@@ -98,11 +98,11 @@ export default function EnquiriesPage() {
                                         <p className="font-medium text-navy">{e.name}</p>
                                         <p className="text-xs text-muted-foreground">{e.email}</p>
                                     </TableCell>
-                                    <TableCell className="text-muted-foreground">
+                                    <TableCell className="hidden md:table-cell text-muted-foreground">
                                         {e.propertyName || e.subject || "General enquiry"}
                                     </TableCell>
-                                    <TableCell className="text-muted-foreground">{fmt(e.createdAt)}</TableCell>
-                                    <TableCell><Badge variant={variant[e.status] ?? "secondary"}>{e.status}</Badge></TableCell>
+                                    <TableCell className="hidden lg:table-cell text-muted-foreground">{fmt(e.createdAt)}</TableCell>
+                                    <TableCell className="hidden sm:table-cell"><Badge variant={variant[e.status] ?? "secondary"}>{e.status}</Badge></TableCell>
                                     <TableCell className="text-right" onClick={(ev) => ev.stopPropagation()}>
                                         <div className="flex items-center justify-end gap-2">
                                             <Select value={e.status} onValueChange={(v) => setStatus(e, v)}>

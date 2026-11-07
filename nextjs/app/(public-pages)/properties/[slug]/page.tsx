@@ -75,8 +75,8 @@ export default async function PropertyDetailPage({ params }: { params: Promise<{
                     {facts.slice(0, 4).map((f) => {
                         const Icon = f.icon;
                         return (
-                            <div key={f.label} className="p-5 flex items-center gap-3">
-                                <div className="flex items-center justify-center size-10 rounded-lg bg-navy/5 text-navy shrink-0"><Icon className="size-5" /></div>
+                            <div key={f.label} className="p-4 sm:p-5 flex items-center gap-3 min-w-0">
+                                <div className="hidden sm:flex items-center justify-center size-10 rounded-lg bg-navy/5 text-navy shrink-0"><Icon className="size-5" /></div>
                                 <div>
                                     <p className="text-charcoal/50 text-xs">{f.label}</p>
                                     <p className="text-navy text-sm font-medium">{f.value}</p>

@@ -43,7 +43,7 @@ export default async function ContactPage() {
 
     return (
         <main>
-            <HeroSection content={hero} variant="compact" align="center" heightClass="h-[42vh] min-h-[420px]" />
+            <HeroSection content={hero} variant="compact" align="center" heightClass="min-h-[420px]" />
 
             <section className="px-4 md:px-16 lg:px-24 xl:px-32 -mt-10 relative z-10">
                 <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">

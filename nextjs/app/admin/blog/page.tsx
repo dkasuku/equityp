@@ -124,7 +124,7 @@ export default function BlogAdminPage() {
 
     return (
         <div className="space-y-6">
-            <div className="flex items-center justify-between">
+            <div className="flex items-center justify-between flex-wrap gap-3">
                 <div>
                     <h1 className="text-2xl font-semibold text-navy">Blog</h1>
                     <p className="text-muted-foreground text-sm mt-1">{items.length} article{items.length === 1 ? "" : "s"}</p>
@@ -138,8 +138,8 @@ export default function BlogAdminPage() {
                         <TableHeader>
                             <TableRow>
                                 <TableHead>Article</TableHead>
-                                <TableHead>Category</TableHead>
-                                <TableHead>Published</TableHead>
+                                <TableHead className="hidden md:table-cell">Category</TableHead>
+                                <TableHead className="hidden lg:table-cell">Published</TableHead>
                                 <TableHead>Status</TableHead>
                                 <TableHead className="text-right">Actions</TableHead>
                             </TableRow>
@@ -164,8 +164,8 @@ export default function BlogAdminPage() {
                                             </div>
                                         </div>
                                     </TableCell>
-                                    <TableCell className="text-muted-foreground">{p.category}</TableCell>
-                                    <TableCell className="text-muted-foreground">{fmt(p.publishedAt)}</TableCell>
+                                    <TableCell className="hidden md:table-cell text-muted-foreground">{p.category}</TableCell>
+                                    <TableCell className="hidden lg:table-cell text-muted-foreground">{fmt(p.publishedAt)}</TableCell>
                                     <TableCell>
                                         <Badge variant={p.published ? "success" : "outline"}>
                                             {p.published ? "Published" : "Draft"}

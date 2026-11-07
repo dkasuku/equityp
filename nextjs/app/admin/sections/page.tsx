@@ -46,7 +46,7 @@ function Field({
         const template = Object.fromEntries(Object.keys(rows[0]).map((k) => [k, typeof rows[0][k] === "number" ? 0 : ""]));
         return (
             <div className="space-y-3">
-                <div className="flex items-center justify-between">
+                <div className="flex items-center justify-between flex-wrap gap-3">
                     <Label>{title(fieldKey)}</Label>
                     <Button type="button" variant="outline" size="sm" onClick={() => onChange([...rows, template])}>
                         <Plus className="size-4" /> Add item
@@ -55,7 +55,7 @@ function Field({
                 <div className="space-y-3">
                     {rows.map((row, i) => (
                         <div key={i} className="rounded-lg border p-4 space-y-3 bg-muted/30">
-                            <div className="flex items-center justify-between">
+                            <div className="flex items-center justify-between flex-wrap gap-3">
                                 <span className="text-xs text-muted-foreground font-medium">Item {i + 1}</span>
                                 <Button type="button" variant="ghost" size="icon"
                                     onClick={() => onChange(rows.filter((_, idx) => idx !== i))}>
